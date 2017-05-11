@@ -1,0 +1,9 @@
+object(stdClass)#8 (8) { ["_id"]=> object(MongoDB\BSON\ObjectID)#7 (1) { ["oid"]=> string(24) "590f4802c20c8c0a4416d833" } ["Vendor"]=> string(5) "test3" ["phone"]=> string(10) "8923902809" ["Type"]=> string(6) "vendor" ["SalesRep"]=> string(9) "jlaksdjkl" ["VendorPref"]=> string(14) "jldkajlsdjakls" ["Stock Update"]=> string(12) "dalksdjlkasd" ["PaymentMethod"]=> int(100) }
+
+object(stdClass)#10 (8) { ["_id"]=> object(MongoDB\BSON\ObjectID)#9 (1) { ["oid"]=> string(24) "590f78f5c20c8c0a4416d834" } ["Vendor"]=> string(12) "Diamond Ince" ["phone"]=> string(9) "855555555" ["Type"]=> string(6) "vendor" ["SalesRep"]=> string(5) "Tom K" ["VendorPref"]=> string(10) "No Returns" ["StockUpdate"]=> string(1) "5" ["PaymentMethod"]=> string(11) "Credit Card" }
+
+object(stdClass)#7 (8) { ["_id"]=> object(MongoDB\BSON\ObjectID)#8 (1) { ["oid"]=> string(24) "59136051c20c8c4f924fdbb1" } ["Vendor"]=> string(6) "Test 5" ["phone"]=> string(9) "855555555" ["Type"]=> string(6) "vendor" ["SalesRep"]=> string(11) "Paul George" ["VendorPref"]=> string(10) "No Returns" ["StockUpdate"]=> string(1) "5" ["PaymentMethod"]=> string(11) "Credit Card" }
+
+object(stdClass)#9 (8) { ["_id"]=> object(MongoDB\BSON\ObjectID)#10 (1) { ["oid"]=> string(24) "591361a0c20c8c4f8b37ce51" } ["Vendor"]=> string(9) "Tom River" ["phone"]=> string(8) "42409345" ["Type"]=> string(6) "vendor" ["SalesRep"]=> string(5) "Tom P" ["VendorPref"]=> string(16) "Not happy vendor" ["StockUpdate"]=> string(1) "1" ["PaymentMethod"]=> string(2) "CC" }
+
+object(stdClass)#8 (8) { ["_id"]=> object(MongoDB\BSON\ObjectID)#7 (1) { ["oid"]=> string(24) "5913a16bc20c8c0a433ebe71" } ["Vendor"]=> string(5) "IT635" ["phone"]=> string(9) "888882323" ["Type"]=> string(6) "vendor" ["SalesRep"]=> string(6) "John d" ["VendorPref"]=> string(10) "no returns" ["StockUpdate"]=> string(1) "2" ["PaymentMethod"]=> string(2) "CC" } 
